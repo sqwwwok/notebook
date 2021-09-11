@@ -1,4 +1,4 @@
-[Reference](https://www.typescriptlang.org/docs/handbook/2/functions.html#call-signatures)
+[Typescript handbook about call and construct signatures](https://www.typescriptlang.org/docs/handbook/2/functions.html#call-signatures)
 
 
 ```ts

@@ -1,6 +1,7 @@
-[ts docs](https://www.typescriptlang.org/docs/handbook/2/functions.html#function-overloads)
+[Typescript handbook chapter about function overloads](https://www.typescriptlang.org/docs/handbook/2/functions.html#function-overloads)
 
-### Implementation signature make no sense
+### Implementation signature makes no sense
+
 ```ts
 // overload signatures
 function makeDate(timestamp: number): Date;
