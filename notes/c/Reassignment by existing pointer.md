@@ -29,3 +29,4 @@ int main() {
   return 0;
 }
 ```
+It seems that the complier assign a new piece of mermory for the new varriable, so it has a different pointer.
