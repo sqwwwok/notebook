@@ -1,6 +1,4 @@
-# 
-
-unstabled_observedBits in React Context API
+# unstabled_observedBits in React Context API
 
 [reference](https://zhuanlan.zhihu.com/p/51073183)
 
