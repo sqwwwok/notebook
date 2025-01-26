@@ -33,6 +33,6 @@ module.exports = function (api) {
 };
 ```
 
-However, [babel will lost all code foramt and cause too much meaningless change](https://stackoverflow.com/questions/77531610/how-to-prevent-babel-from-formatting-the-generated-code).
+[However, Babel will lose some code formatting in the process, as it works based on the AST.](https://stackoverflow.com/questions/77531610/how-to-prevent-babel-from-formatting-the-generated-code).
 
 
