@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: NoteBook of SQWWWOK
+title: NoteBook of sqwwwok
 subtitle: ''
 description: ''
 keywords:
@@ -101,4 +101,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: https://github.com/sqwwwok/sqwwwok.github.io
+  branch: master
+
