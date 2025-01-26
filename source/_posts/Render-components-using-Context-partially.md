@@ -1,4 +1,9 @@
-# unstabled_observedBits in React Context API
+---
+title: Render components using Context partially
+categories:
+  - React
+---
+
 
 [reference](https://zhuanlan.zhihu.com/p/51073183)
 

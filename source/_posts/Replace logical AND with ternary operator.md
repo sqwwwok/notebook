@@ -1,3 +1,8 @@
+---
+title: How to replace && with ternary operators
+categories:
+    -   Others
+---
 In React Native, logical AND may cause crash as below.
 
 [Conditional rendering in React Native may crash your app](https://www.koprowski.it/blog/conditional-rendering-react-native-text-crash/)

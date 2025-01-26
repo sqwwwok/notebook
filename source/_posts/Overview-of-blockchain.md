@@ -1,3 +1,8 @@
+---
+title: Overview of Blockchain
+categories:
+    -   Blockchain
+---
 ## Traditional currency system
 
 1. Role of Central Banks: Central banks issue fiat currency and use tools like interest rate policies to regulate the economy.

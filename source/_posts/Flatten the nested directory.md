@@ -1,3 +1,8 @@
+---
+title: How to Flatten the dir
+categories:
+  - Others
+---
 ## Backgrounds
 
 ```

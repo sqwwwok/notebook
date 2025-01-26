@@ -1,3 +1,11 @@
+---
+title: Confusions about parseInt
+categories:
+  - Javascript
+date: 2025-01-26 10:50:03
+tags:
+---
+
 ## Backgrounds
 
 ```js
